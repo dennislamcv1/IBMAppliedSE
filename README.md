@@ -13,11 +13,11 @@ The program is suitable for those new to software engineering or for those who w
 
 Each course is packed with hands-on labs, interactive activities, and projects so you can build your portfolio while gaining practical knowledge of software engineering concepts. You will develop software engineering skills  throughout the program. Projects involve:.
 
-*Exploring job listings to become familiar with skills and requirements in the Software Engineering domain. 
-*Using Git commands and GitHub to create an open source project while working with branches, merging code, and performing pull requests (PRs).
-*Writing a Bash shell script on Linux that takes backups of changed files and schedules it to run every 24 hours using Crontab. 
-*Coding with Python using lists, tuples, dictionaries, sets, conditions, branching, loops, functions, exception handling, objects, and classes, web services & APIs, and libraries like NumPy & Pandas. 
-*Developing a Python web app that uses IBM Watson to translate languages, including writing unit tests and packaging the app for distribution.
+* Exploring job listings to become familiar with skills and requirements in the Software Engineering domain. 
+* Using Git commands and GitHub to create an open source project while working with branches, merging code, and performing pull requests (PRs).
+* Writing a Bash shell script on Linux that takes backups of changed files and schedules it to run every 24 hours using Crontab. 
+* Coding with Python using lists, tuples, dictionaries, sets, conditions, branching, loops, functions, exception handling, objects, and classes, web services & APIs, and libraries like NumPy & Pandas. 
+* Developing a Python web app that uses IBM Watson to translate languages, including writing unit tests and packaging the app for distribution.
 
 
 
