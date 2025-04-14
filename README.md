@@ -1,6 +1,7 @@
-# Applied Software Engineering Fundamentals Specialization
+# Applied Software Engineering Fundamentals Specialization (5 course series)
 
 ## About this Specialization
+
 If you want to enter the exciting world of software development, this Software Engineering Foundations Specialization is for you. No prior degrees or knowledge of programming or application development are necessary.  
 
 Software Developers are in great demand earning a median salary of US$110,140 per year according to the US Bureau of Labor and Statistics. The field is growing at a rate of 22% making it a great time to start in this career in  of software engineering. The self-paced courses in this program provide the foundations to prepare for a wide range of IT & software development related careers, including web development, mobile application development, front-end, back-end, and full stack application development, software testing & quality assurance (QA), as well as DevOps engineering. 
